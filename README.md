@@ -75,7 +75,7 @@ Supervisor'ın kendine ait bir veri aracı yok; yalnızca isteği doğru uzmana 
 
 ## 6. Kalite ve test
 
-- ~28 test modülü, ~240 test fonksiyonu (Pytest)
+- 28 test modülü, 251 test fonksiyonu (Pytest)
 - Azure OpenAI ve BigQuery mock'lanarak CI'da kota ve ağ bağımlılığı kaldırıldı
 - Yönlendirme için değerlendirme fixture'ları: hangi cümlenin hangi uzmana gitmesi gerektiği
 - Uydurma sayıya karşı koruma, kullanıcı dostu hata mesajları ve regresyon testleri
